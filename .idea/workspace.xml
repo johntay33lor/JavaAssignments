@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a617d14-f236-46a0-ad50-5ceccc53c95a" name="Changes" comment="javaAssignment" />
+    <list default="true" id="9a617d14-f236-46a0-ad50-5ceccc53c95a" name="Changes" comment="javaAssignment">
+      <change beforePath="$PROJECT_DIR$/hs_err_pid10160.log" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1683648266412</updated>
       <workItem from="1683648267482" duration="12074000" />
-      <workItem from="1683663277416" duration="3985000" />
+      <workItem from="1683663277416" duration="4407000" />
     </task>
     <task id="LOCAL-00001" summary="Scanner">
       <created>1683650319579</created>
@@ -91,11 +93,43 @@
       <option name="project" value="LOCAL" />
       <updated>1683667263808</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="javaAssignment">
+      <created>1683667300053</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1683667300053</updated>
+    </task>
+    <task id="LOCAL-00008" summary="javaAssignment">
+      <created>1683667404043</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1683667404043</updated>
+    </task>
+    <task id="LOCAL-00009" summary="javaAssignment">
+      <created>1683667672004</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1683667672004</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Scanner" />
