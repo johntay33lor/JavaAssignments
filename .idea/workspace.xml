@@ -5,6 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a617d14-f236-46a0-ad50-5ceccc53c95a" name="Changes" comment="javaAssignment">
+      <change afterPath="$PROJECT_DIR$/src/Loops/CountToEleven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/Multiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/PositiveNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/StopAtFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/TakeABreak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hs_err_pid10160.log" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +27,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="c287bbba-a088-4cdc-a5c6-14c46d88d2e9" />
+        <option name="url" value="https://github.com/johntay33lor/JavaAssignments.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="2PYyMvn3nqx3ZnxeBltgTxG8uHh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -49,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1683648266412</updated>
       <workItem from="1683648267482" duration="12074000" />
-      <workItem from="1683663277416" duration="4407000" />
+      <workItem from="1683663277416" duration="10553000" />
     </task>
     <task id="LOCAL-00001" summary="Scanner">
       <created>1683650319579</created>
@@ -114,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683667672004</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="javaAssignment">
+      <created>1683667760678</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1683667760678</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
