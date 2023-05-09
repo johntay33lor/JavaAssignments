@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a617d14-f236-46a0-ad50-5ceccc53c95a" name="Changes" comment="Scanner">
-      <change afterPath="$PROJECT_DIR$/src/com/calculations/Calculations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/scanner/VariableInputs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/scanner/VariableInputs.java" afterDir="false" />
+    <list default="true" id="9a617d14-f236-46a0-ad50-5ceccc53c95a" name="Changes" comment="javaAssignment">
+      <change beforePath="$PROJECT_DIR$/src/com/calculations/Calculations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/calculations/Calculations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683648266412</updated>
-      <workItem from="1683648267482" duration="8927000" />
+      <workItem from="1683648267482" duration="9892000" />
     </task>
     <task id="LOCAL-00001" summary="Scanner">
       <created>1683650319579</created>
@@ -66,7 +64,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683652399057</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="javaAssignment">
+      <created>1683660359528</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683660359529</updated>
+    </task>
+    <task id="LOCAL-00004" summary="javaAssignment">
+      <created>1683660454968</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683660454969</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,6 +86,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Scanner" />
-    <option name="LAST_COMMIT_MESSAGE" value="Scanner" />
+    <MESSAGE value="javaAssignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="javaAssignment" />
   </component>
 </project>
