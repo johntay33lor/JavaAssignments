@@ -14,11 +14,11 @@ public class Calculations {
         System.out.print("Enter another number:");
         num2 = input.nextInt();
 
-        System.out.println(num1 + " + " + num2 + "= " + (num1 + num2));
-        System.out.println(num1 + " - " + num2 + "= " + (num1 - num2));
-        System.out.println(num1 + " * " + num2 + "= " + (num1 * num2));
-        System.out.println(num1 + " / " + num2 + "= " +  num1 / num2);
-        System.out.println(num1 + " % " + num2 + "= " + (num1 % num2));
+        System.out.println(num1 + " + " + num2 + " = " + (num1 + num2));
+        System.out.println(num1 + " - " + num2 + " = " + (num1 - num2));
+        System.out.println(num1 + " * " + num2 + " = " + (num1 * num2));
+        System.out.println(num1 + " / " + num2 + " = " +  num1 / num2);
+        System.out.println(num1 + " % " + num2 + " = " + (num1 % num2));
 
 
 
