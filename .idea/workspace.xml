@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a617d14-f236-46a0-ad50-5ceccc53c95a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAssignments.iml" afterDir="false" />
+    <list default="true" id="9a617d14-f236-46a0-ad50-5ceccc53c95a" name="Changes" comment="Scanner">
       <change afterPath="$PROJECT_DIR$/src/com/calculations/Calculations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/scanner/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scanner/HelloThere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scanner/Superhero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scanner/VariableInputs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,11 +52,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683648266412</updated>
-      <workItem from="1683648267482" duration="1948000" />
+      <workItem from="1683648267482" duration="3876000" />
     </task>
+    <task id="LOCAL-00001" summary="Scanner">
+      <created>1683650319579</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683650319579</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Scanner" />
+    <option name="LAST_COMMIT_MESSAGE" value="Scanner" />
   </component>
 </project>
