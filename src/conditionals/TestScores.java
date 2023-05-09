@@ -1,4 +1,4 @@
-package com.conditionals;
+package conditionals;
 import java.util.Scanner;
 public class TestScores {
     public static void main(String[] args) {
