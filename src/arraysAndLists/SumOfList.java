@@ -16,7 +16,7 @@ public class SumOfList {
         while (true) {
             num = input.nextInt();
             myList.add(num);
-            System.out.println("Enter another number: (Enter 0 to end)");
+            System.out.println("Enter another number: (Enter 0 to end) ");
 
             if (num == 0) {
                 myList.remove(myList.get(myList.size() - 1));
@@ -30,8 +30,6 @@ public class SumOfList {
         }
 
         System.out.println("The sum of the list is: " + sum);
-
-
 
     }
 }

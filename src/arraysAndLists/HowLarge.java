@@ -11,12 +11,12 @@ public class HowLarge {
         String word;
         ArrayList<String> myString = new ArrayList<>();
 
-        System.out.println("Enter a word:");
+        System.out.println("Enter a word: ");
 
         while (true) {
             word = input.nextLine();
             myString.add(word);
-            System.out.println("Enter a word:(Press enter to end)");
+            System.out.println("Enter a word:(Press enter to end) ");
 
             if (word.isEmpty()) {
                 System.out.println("Total items in list: " + (myString.size()-1));

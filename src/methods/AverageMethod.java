@@ -25,12 +25,10 @@ public class AverageMethod {
         System.out.println("The average is: " + avg);
 
     }
-
     public static int sum(int a, int b, int c) {
         return a + b + c;
         
     }
-
     public static double average(int one, int two, int three) {
         int sum = sum(one, two, three);
         double avg = (double) sum / 3;

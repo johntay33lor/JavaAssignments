@@ -9,17 +9,14 @@ public class MethodReturnTypes {
         System.out.println("Enter a boolean: " + myBoolean());
 
     }
-
     public static String myString () {
-        return "This is a string";
+        return "This is a string ";
 
     }
-
     public static int myInt () {
         return 3;
 
     }
-
     public static boolean myBoolean () {
         return true;
 

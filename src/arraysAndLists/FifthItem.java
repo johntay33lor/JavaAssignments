@@ -11,12 +11,12 @@ public class FifthItem {
         String string;
         ArrayList<String> myString = new ArrayList<>();
 
-        System.out.println("Enter a word:");
+        System.out.println("Enter a word: ");
 
         while (true) {
             string = input.nextLine();
             myString.add(string);
-            System.out.println("Enter a word:(Press enter to end)");
+            System.out.println("Enter a word:(Press enter to end) ");
 
             if (string.isEmpty()) {
                 System.out.println("Game Over!");

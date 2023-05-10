@@ -11,12 +11,12 @@ public class IndexOfInteger {
         ArrayList<Integer> intArray = new ArrayList<>();
         int num;
 
-        System.out.println("Enter a number:");
+        System.out.println("Enter a number: ");
 
         while (true) {
             num = input.nextInt();
             intArray.add(num);
-            System.out.println("Enter another number: (Enter 0 to stop adding numbers.)");
+            System.out.println("Enter another number: (Enter 0 to stop adding numbers.) ");
 
             if (num == 0) {
                 System.out.println("You are done adding numbers to the list.");
