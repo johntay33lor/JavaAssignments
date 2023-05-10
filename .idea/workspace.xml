@@ -5,13 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a617d14-f236-46a0-ad50-5ceccc53c95a" name="Changes" comment="javaAssignment">
-      <change afterPath="$PROJECT_DIR$/src/Loops/CountToEleven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/Multiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/PositiveNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/StopAtFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/TakeABreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arraysAndLists/FifthItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arraysAndLists/HowLarge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arraysAndLists/IndexOfInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arraysAndLists/LastItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arraysAndLists/SumOfList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/AverageMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/DivideMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/MethodReturnTypes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hs_err_pid10160.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loops/CountToEleven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/CountToEleven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loops/Multiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/Multiplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loops/PositiveNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/PositiveNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loops/StopAtFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/StopAtFive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loops/TakeABreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/TakeABreak.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,11 +37,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -51,6 +60,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -69,6 +79,15 @@
       <updated>1683648266412</updated>
       <workItem from="1683648267482" duration="12074000" />
       <workItem from="1683663277416" duration="10553000" />
+      <workItem from="1683673876728" duration="1115000" />
+      <workItem from="1683723628684" duration="3426000" />
+      <workItem from="1683730964934" duration="76000" />
+      <workItem from="1683733404600" duration="3388000" />
+      <workItem from="1683740944344" duration="1279000" />
+      <workItem from="1683742246512" duration="2276000" />
+      <workItem from="1683744552928" duration="5989000" />
+      <workItem from="1683750569903" duration="309000" />
+      <workItem from="1683750892789" duration="1682000" />
     </task>
     <task id="LOCAL-00001" summary="Scanner">
       <created>1683650319579</created>
@@ -140,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683667760678</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="javaAssignment">
+      <created>1683673954075</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1683673954075</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
