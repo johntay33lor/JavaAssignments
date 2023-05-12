@@ -1,7 +1,7 @@
 package objectsInLists;
 import java.util.Scanner;
 import java.util.ArrayList;
-public class Main {
+public class Main_Animal {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         ArrayList<Animal> animals = new ArrayList<>();

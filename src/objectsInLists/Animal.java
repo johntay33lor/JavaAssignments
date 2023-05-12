@@ -1,6 +1,4 @@
 package objectsInLists;
-import java.util.Scanner;
-import java.util.ArrayList;
 
 public class Animal {
     private String name;
@@ -20,6 +18,6 @@ public class Animal {
     }
 
     public String toString() {
-        return "Animal Name: " + getName() + " Is a Dog?: " + isDog();
+        return getName() + " is a dog = " + isDog();
     }
 }
